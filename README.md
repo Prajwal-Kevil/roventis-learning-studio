@@ -359,6 +359,9 @@ git clone --branch dev https://github.com/HKUDS/DeepTutor.git
 cd DeepTutor
 
 # Create a venv (macOS/Linux). Windows PowerShell:
+
+> **Roventis Technologies** — maintained by [Prajwal C](https://github.com/Prajwal-Kevil). See [`ROVENTIS_STANDARDS.md`](ROVENTIS_STANDARDS.md) for repository, safety, and contribution standards.
+
 #   py -3.11 -m venv .venv ; .\.venv\Scripts\Activate.ps1
 python3 -m venv .venv && source .venv/bin/activate
 python -m pip install --upgrade pip
