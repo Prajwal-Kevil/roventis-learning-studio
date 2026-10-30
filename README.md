@@ -1,7 +1,9 @@
 <div align="center">
 
 <p align="center"><img src="assets/figs/logo/color-full.png" alt="DeepTutor" width="480"></p>
-<h1 align="center">DeepTutor: Lifelong Personalized Tutoring</h1>
+<h1 align="center">Roventis Learning Studio</h1>
+
+<p align="center"><strong>Personalized learning and knowledge work for modern product teams.</strong><br>Built by <a href="https://github.com/Prajwal-Kevil">Roventis Technologies</a> on top of <a href="https://github.com/HKUDS/DeepTutor">DeepTutor</a>.</p>
 
 <p align="center">
   <a href="https://deeptutor.info" target="_blank"><img alt="Docs — deeptutor.info" src="https://img.shields.io/badge/Docs-deeptutor.info%20%E2%86%97-0A0A0A?style=for-the-badge&labelColor=F5F5F4" height="36"></a>&nbsp;
@@ -42,6 +44,8 @@
 </div>
 
 ---
+
+> **Roventis edition.** This repository is a branded Roventis Technologies customization of DeepTutor. Upstream attribution and the Apache-2.0 license are preserved; see [`ROVENTIS_CUSTOMIZATION.md`](ROVENTIS_CUSTOMIZATION.md).
 
 > 🤝 **We welcome any kinds of contributing!** Vote on roadmap items or propose new ones at [`Roadmap`](https://github.com/HKUDS/DeepTutor/issues/498), and see our [Contributing Guide](CONTRIBUTING.md) for branching strategy, coding standards, and how to get started.
 
